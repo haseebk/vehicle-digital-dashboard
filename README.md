@@ -7,5 +7,10 @@ This project aims to help gain introductory experience with designing and develo
 -Custom made all GUI panels and visuals for appealing aesthetics and cohesive design
 
 ## Usage
-
 Run Class_SensorDataProvider19.pde using Processing 3 development environment
+
+**Menu page**:
+[Menu page image](https://github.com/haseebk/engg233-f18-finalproject/blob/master/data/vehicleSelect.png)
+
+**Dashboard page**:
+[Dashboard image](https://github.com/haseebk/engg233-f18-finalproject/blob/master/data/dashboard.png)
